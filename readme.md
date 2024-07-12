@@ -8,7 +8,7 @@
 ### About
 -  **Working :** Started as Full-stack developer with LAMP stack after graduating from a WebDev Boot Camp in 2014. Sr. Software Engineer that's lead teams and initiatives in AngularJS, C# .NET, and other miscellaneous languages.
 -  **Project :** Built a media sharing/todo app for myself and some friends with [this stack](https://www.youtube.com/watch?v=I6ypD7qv3Z8) once upon a time.  (Ben Awad is a BEAST!)
--  **Learning :** A ton of stuff that 
+-  **Learning :** Getting better at TypeScript, more Next.js
 -  **Hobbies :** Board Games 🎲 | Movies 🎞️‍ | Traveling 🚐 | Reading 📖
 -  **Ask me about :** Anything!, I'm happy to help 💭
 
