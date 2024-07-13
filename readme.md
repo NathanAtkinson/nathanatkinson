@@ -57,8 +57,11 @@
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu&logoColor=ffffff&labelColor=E95420)
 
-Icons and colors from [simpleicons.org](https://simpleicons.org/) 
+Icons and colors from [simpleicons.org](https://simpleicons.org/)
+
 Badges from [shields.io](https://shields.io) 
+
+Emojis from [emojipedia.org](https://emojipedia.org/)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -71,16 +74,20 @@ Badges from [shields.io](https://shields.io)
   </a>
 </p>
 
+GitHub stats from [github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=socrates)
 
-From https://github.com/shravan20/github-readme-quotes
+Quotes from [https://github.com/shravan20/github-readme-quotes](https://https://github.com/shravan20/github-readme-quotes)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="center">🖳 Visitor's count</h3>
 <p align="center"><img src="https://profile-counter.glitch.me/{NathanAtkinson}/count.svg/" alt="Nathan Atkinson Visitor's count" /></p>
+
+Old school visitor counter from  [github.com/sagar-viradiya/sagar-viradiya](https://github.com/sagar-viradiya/sagar-viradiya)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
