@@ -18,28 +18,47 @@
      - Distillery hop in Scotland
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## 💻 What I've worked with:
 
-<p align="center" style="background-color:white;">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="60" width="60"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="60" width="60"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="60" width="60"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" width="60"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" width="60"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" width="60"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="60" width="60"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="60" width="60"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" height="60" width="60"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="60" width="60"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" width="60"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" height="60" width="60"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" width="60"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="60" width="60"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" height="60" width="60"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" width="60"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" width="60"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="60" width="60"/>
-</p>
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
+
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
+![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD&labelColor=ffffff)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
+![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
+![AngularJS](https://img.shields.io/badge/-AngularJS-000000?style=flat&logo=angular&logoColor=DD1100&labelColor=0F0F11)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=ffffff&labelColor=3178C6)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=ffffff&labelColor=000000)
+
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php&logoColor=ffffff&labelColor=777BB4)
+![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&logoColor=ffffff&labelColor=21759B)
+![C# .NET](https://img.shields.io/badge/-.NET-000000?style=flat&logo=.net&logoColor=ffffff&labelColor=512BD4)
+
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
+![MS SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-000000?style=flat&logo=&logoColor=ffffff&labelColor=0078d4)
+
+![Amazon Web Services](https://img.shields.io/badge/-aws-000000?style=flat&logo=amazonwebservices&logoColor=ffffff&labelColor=232F3E)
+![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis&logoColor=ffffff&labelColor=FF4438)
+
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=ffffff&labelColor=000000)
+![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
+![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
+
+![Sublime Text](https://img.shields.io/badge/-sublimetext-000000?style=flat&logo=sublimetext&logoColor=ffffff&labelColor=FF9800)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
+
+![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu&logoColor=ffffff&labelColor=E95420)
+
+Icons and colors from [simpleicons.org](https://simpleicons.org/) 
+Badges from [shields.io](https://shields.io) 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -51,7 +70,6 @@
     <img title="GitHub Stats" alt="Nathan's streak" src="https://streak-stats.demolab.com/?user=NathanAtkinson&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
   </a>
 </p>
-
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
