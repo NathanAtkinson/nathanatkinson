@@ -1,11 +1,11 @@
 
-## Hi!, I'm Nathan 
+## 👋 Hi!, I'm Nathan 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Nathan_Atkinson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathan-atkinson-se/)](https://www.linkedin.com/in/nathan-atkinson-se/)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### About
+### ❓ About
 -  **Working :** Started as Full-stack developer with LAMP stack after graduating from a WebDev Boot Camp in 2014. Sr. Software Engineer that's lead teams and initiatives in AngularJS, C# .NET, and other miscellaneous languages.
 -  **Project :** Built a media sharing/todo app for myself and some friends with [this stack](https://www.youtube.com/watch?v=I6ypD7qv3Z8) once upon a time.  (Ben Awad is a BEAST!)
 -  **Learning :** Getting better at TypeScript, more Next.js
@@ -43,8 +43,26 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## 👨‍💻 GitHub stats:
+
+<!-- GitHub Readme Streak Stats -->
+<p align="center">
+  <a href="https://github.com/NathanAtkinson">
+    <img title="GitHub Stats" alt="Nathan's streak" src="https://streak-stats.demolab.com/?user=NathanAtkinson&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+  </a>
+</p>
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=socrates)
 
 From https://github.com/shravan20/github-readme-quotes
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h3 align="center">🖳 Visitor's count</h3>
+<p align="center"><img src="https://profile-counter.glitch.me/{NathanAtkinson}/count.svg/" alt="Nathan Atkinson Visitor's count" /></p>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
