@@ -44,14 +44,14 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 ![MS SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-000000?style=flat&logo=&logoColor=ffffff&labelColor=0078d4)
 
-![Amazon Web Services](https://img.shields.io/badge/-aws-000000?style=flat&logo=amazonwebservices&logoColor=ffffff&labelColor=232F3E)
+![Amazon Web Services](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazonwebservices&logoColor=ffffff&labelColor=232F3E)
 ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis&logoColor=ffffff&labelColor=FF4438)
 
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=ffffff&labelColor=000000)
 ![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
-![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
+![Font Awesome](https://img.shields.io/badge/-Font%20Awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
 
-![Sublime Text](https://img.shields.io/badge/-sublimetext-000000?style=flat&logo=sublimetext&logoColor=ffffff&labelColor=FF9800)
+![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-000000?style=flat&logo=sublimetext&logoColor=ffffff&labelColor=FF9800)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
 
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
